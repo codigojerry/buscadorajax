@@ -1,0 +1,30 @@
+
+#myDiv{ 
+ margin:0px;
+ width:200px;         
+}
+
+.sugerencias:hover{
+ background-color:#D3D3D3;
+ cursor:default; 
+}
+
+body{
+ color:#696969;
+ font-family:Arial,Helvetica,sans-serif;
+}
+
+#bus{
+ background-image:url('search.png');
+ background-size:25px 23px;/*tamano imagen*/
+ background-repeat:no-repeat;
+ background-position:right;
+ border-radius: 5px;
+ border-style:solid;
+ border-color:#1E90FF;
+ border-width:1px;
+ height:20px;
+ color:#808080;
+
+}
+       
